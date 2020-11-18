@@ -1,1 +1,1 @@
-# HackerEarth_ML
+# HackerEarth_ML_contests
